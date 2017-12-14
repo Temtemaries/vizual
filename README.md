@@ -1,3 +1,3 @@
-# vizual
-poli-Artem Olev
-loli-Djagterev Grigorii
+# vizual;
+poli-Artem Olev;
+loli-Djagterev Grigorii.
