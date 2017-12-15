@@ -40,7 +40,7 @@ void setup()
  fullScreen(P3D); //Отображение в 3D на весь экран.
   background(0);
   minim = new Minim(this);
-  song = minim.loadFile("song.mp3");
+  song = minim.loadFile("baby.mp3");
   fft = new FFT(song.bufferSize(), song.sampleRate());
   song.play(0);
   
